@@ -23,4 +23,4 @@ let SimilarUrl = www + "/movie/{movie_id}/similar" + additionalValues
 let PicUrl = "https://image.tmdb.org/t/p/w500/"
 let ImdbUrl = "https://www.imdb.com/title/"
 
-
+// This commit added for Github actions :)
