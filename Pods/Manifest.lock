@@ -1,0 +1,40 @@
+PODS:
+  - Alamofire (5.4.0)
+  - ASProgressHud (1.0.5)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - SVProgressHUD (2.2.6):
+    - SVProgressHUD/Core (= 2.2.6)
+  - SVProgressHUD/Core (2.2.6)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - ASProgressHud
+  - Kingfisher
+  - SVProgressHUD (from `https://github.com/SVProgressHUD/SVProgressHUD.git`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - ASProgressHud
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  SVProgressHUD:
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+CHECKOUT OPTIONS:
+  SVProgressHUD:
+    :commit: 1bb9afb90a79b022708b6cd7be7f1fb6bdc46a3a
+    :git: https://github.com/SVProgressHUD/SVProgressHUD.git
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  ASProgressHud: 170e18e72af3ffb28d36fd6e6d9caf998762ff58
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  SVProgressHUD: de812b4f0e1d65358f0064416473174ae619843f
+
+PODFILE CHECKSUM: 62d877a58a4c8f0e862f21d129e20711723eaa2c
+
+COCOAPODS: 1.10.0
